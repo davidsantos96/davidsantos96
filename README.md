@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou David Santos
 
 Bem-vindo ao meu perfil GitHub!  
-Sou desenvolvedor Front-end com experiência em React e atualmente curso **Computação em Nuvem**.
+Sou desenvolvedor Front-end com experiência em React e atualmente cursando **Computação em Nuvem**.
 
 ## 🚀 Sobre mim
 
